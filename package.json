@@ -1,0 +1,21 @@
+{
+  "name": "Discode_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discode.js": "0.0.5",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  }
+}
